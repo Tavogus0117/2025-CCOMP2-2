@@ -1,0 +1,16 @@
+#ifndef DINAMICINTEGERARRAY
+#define DINAMICINTEGERARRAY
+
+
+class DinamicIntegerArray
+{
+    public:
+        DinamicIntegerArray();
+        virtual ~DinamicIntegerArray();
+
+    protected:
+
+    private:
+};
+
+#endif // DINAMICINTEGERARRAY_

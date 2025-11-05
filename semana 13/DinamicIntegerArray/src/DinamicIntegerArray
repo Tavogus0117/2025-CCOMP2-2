@@ -1,0 +1,11 @@
+#include "DinamicIntegerArray."
+
+DinamicIntegerArray::DinamicIntegerArray()
+{
+    //ctor
+}
+
+DinamicIntegerArray::~DinamicIntegerArray()
+{
+    //dtor
+}

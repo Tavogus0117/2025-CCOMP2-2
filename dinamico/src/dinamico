@@ -1,0 +1,11 @@
+#include "dinamico."
+
+dinamico::dinamico()
+{
+    //ctor
+}
+
+dinamico::~dinamico()
+{
+    //dtor
+}

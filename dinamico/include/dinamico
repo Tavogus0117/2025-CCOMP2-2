@@ -1,0 +1,16 @@
+#ifndef DINAMICO_
+#define DINAMICO_
+
+
+class dinamico
+{
+    public:
+        dinamico();
+        virtual ~dinamico();
+
+    protected:
+
+    private:
+};
+
+#endif // DINAMICO_
